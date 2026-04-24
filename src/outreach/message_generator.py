@@ -5,6 +5,15 @@ from dotenv import load_dotenv
 load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
+def enforce_word_count(text: str, min_words: int = 60, max_words: int = 90) -> str:
+    words = len(text.split())
+    if words < min_words or words > max_words:
+        # trim or note
+        word_list = text.split()
+        if words > max_words:
+            text = " ".join(word_list[:max_words])
+    return text
+
 def generate_outreach(creator: dict, brand: dict) -> dict:
     prompt = f"""
 You are an influencer marketing specialist.
@@ -42,4 +51,6 @@ Respond in this exact JSON format only:
 
     import json
     text = response.choices[0].message.content.strip()
-    return json.loads(text)
+    result = json.loads(text)
+    result["email"] = enforce_word_count(result["email"])
+    return result

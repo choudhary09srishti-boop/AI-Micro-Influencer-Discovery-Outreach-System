@@ -66,6 +66,7 @@ if __name__ == "__main__":
             "email": r.get("email"),
             "dm": r.get("dm"),
             "collaboration_strategy": r.get("collaboration_strategy"),
+            "video_titles_analyzed": r.get("video_titles_analyzed", []),
             "collaboration_reason": r.get("collaboration_reason"),
         })
 

@@ -7,7 +7,7 @@ client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 def match_brand(creator: dict, brand: dict) -> dict:
     prompt = f"""
-You are a brand-influencer matching expert.
+You are a strict brand-influencer matching expert.
 
 Brand:
 - Name: {brand['name']}
@@ -23,8 +23,18 @@ Creator:
 - Top Topics: {creator.get('top_topics', [])}
 - Audience Type: {creator.get('audience_type', '')}
 - Engagement Quality: {creator.get('engagement_quality', '')}
+- Recent Video Titles: {creator.get('video_titles_analyzed', [])}
 
-Give a match score from 0-100 and a one line reason.
+Scoring rules:
+- 80-100: Strong niche, audience, and value alignment
+- 50-79: Partial match, some overlap
+- 20-49: Weak match, different niche but some relevance
+- 0-19: No alignment at all
+
+Be strict. Korean beauty and Ayurvedic herbal brands are NOT the same.
+A finance creator and a skincare brand is 0.
+Give a score and one line reason.
+
 Respond in this exact JSON format only:
 {{"score": 85, "reason": "your reason here"}}
 """

@@ -1,48 +1,122 @@
 [
   {
     "platform": "YouTube",
-    "name": "Simple Skincare India",
-    "subscribers": 11500,
-    "profile_link": "https://youtube.com/channel/UCzJfJLTsmRFcAwy7bk4o6pw",
-    "niche": "Skincare India",
-    "content_type": "reviews/tutorials",
+    "name": "Beauty Barn India",
+    "subscribers": 23500,
+    "profile_link": "https://youtube.com/channel/UCf7sg4fdCNkiJcQ0wxas9yg",
+    "niche": "Korean Beauty",
+    "content_type": "reviews/educational",
     "tone": "professional",
     "top_topics": [
-      "Skincare routines",
-      "Product reviews",
-      "Beauty tips"
+      "Korean skincare",
+      "product reviews",
+      "skin care routines"
     ],
-    "engagement_quality": "high",
+    "engagement_quality": "medium",
     "contact_email": "N/A",
-    "match_score": 85,
-    "match_reason": "Nivea's target audience and values align with Simple Skincare India's niche and tone, making them a suitable match for promoting skincare products to Indian women.",
-    "email": "Hello Simple Skincare India, I'm reaching out from Nivea to explore potential collaboration opportunities. Your professional skincare content aligns perfectly with our brand values, and we believe our products would resonate with your audience.",
-    "dm": "Hi, interested in collaborating with Nivea?",
+    "match_score": 20,
+    "match_reason": "The creator's niche is Korean beauty, which is different from the Ayurvedic skincare brand 'ayur' that targets men.",
+    "email": "Hi Beauty Barn India, I'd love to introduce you to ayur, a men's skincare brand rooted in Ayurvedic values. Let's discuss potential collaboration opportunities.",
+    "dm": "Collaboration opportunity with ayur, a men's Ayurvedic skincare brand",
     "collaboration_strategy": "Product Trial",
+    "video_titles_analyzed": [
+      "Are these worth it? Dr.Reju-All PDRN Cream &amp; Retino Mela Serum Review \ud83d\udc40",
+      "Are these worth it? Dr.Reju-All PDRN Cream &amp; Retino Mela Serum Review \ud83d\udc40",
+      "Red flag in relationship &amp; skincare  \ud83e\udee3",
+      "Best Skincare for Summer 2026 in India \ud83c\uddee\ud83c\uddf3",
+      "How to know if your Skin Barrier is Damaged?? \ud83e\uddd0"
+    ],
     "collaboration_reason": "Review-focused creators convert well with free product trials.",
     "segment": "Educators"
   },
   {
     "platform": "YouTube",
-    "name": "Beauty Barn India",
-    "subscribers": 23500,
-    "profile_link": "https://youtube.com/channel/UCf7sg4fdCNkiJcQ0wxas9yg",
-    "niche": "Korean Beauty",
-    "content_type": "reviews/tutorials",
+    "name": "Simple Skincare India",
+    "subscribers": 11500,
+    "profile_link": "https://youtube.com/channel/UCzJfJLTsmRFcAwy7bk4o6pw",
+    "niche": "Skincare India",
+    "content_type": "reviews",
     "tone": "professional",
     "top_topics": [
-      "Korean skincare",
-      "beauty routines",
-      "product reviews"
+      "Sensitive Skin",
+      "Skincare Routine",
+      "Product Reviews"
+    ],
+    "engagement_quality": "high",
+    "contact_email": "N/A",
+    "match_score": 85,
+    "match_reason": "Strong alignment with the skincare industry and target audience, although the creator's niche is broader than just men's skincare.",
+    "email": "Subject: Collaboration Opportunity with ayur Skincare. Dear Simple Skincare India, we're excited to introduce ayur, a skincare brand tailored for men. Considering your expertise in skincare, we think you'd be a great fit to review our products.",
+    "dm": "Hey, interested in collaborating with ayur skincare for men?",
+    "collaboration_strategy": "Product Trial",
+    "video_titles_analyzed": [
+      "Simple Skincare | Refreshing Facial Wash for Sensitive Skin",
+      "Simple Skincare | Hydrating Cleanser for Sensitive Skin",
+      "Simple Refreshing Facial Wash | Strengthens Skin Barrier for Sensitive Skin",
+      "Simple Mattifying UV Fluid | Protects &amp; Repairs Sensitive Skin",
+      "Simple Refreshing Facial Wash | Cleanses Without Stripping Skin Barrier"
+    ],
+    "collaboration_reason": "Review-focused creators convert well with free product trials.",
+    "segment": "Tutorial Creators"
+  },
+  {
+    "platform": "YouTube",
+    "name": "Simran Skincare",
+    "subscribers": 6530,
+    "profile_link": "https://youtube.com/channel/UCBAdIUY4r-BWKjH4_agihUg",
+    "niche": "Skincare Beauty",
+    "content_type": "reviews",
+    "tone": "casual",
+    "top_topics": [
+      "skincare",
+      "product reviews",
+      "beauty routines"
     ],
     "engagement_quality": "medium",
     "contact_email": "N/A",
-    "match_score": 85,
-    "match_reason": "Nivea's skincare focus and target audience of women aligns with Beauty Barn India's niche and audience interest in skincare and beauty products, despite the creator's focus on Korean brands.",
-    "email": "Dear Beauty Barn India, I came across your Korean beauty reviews and thought Nivea's skincare products could be a great fit. Let's discuss collaboration opportunities. Best, [Your Name]",
-    "dm": "Hi Beauty Barn India, interested in collaborating with Nivea?",
+    "match_score": 70,
+    "match_reason": "Partial match due to skincare niche alignment, but audience and value alignment are not fully optimized for the male-targeted ayur brand.",
+    "email": "Hi Simran, I'm reaching out from ayur, a skincare brand for men. I noticed your skincare expertise and think we could collaborate. Let's discuss potential partnerships.",
+    "dm": "Hey Simran, interested in collaborating with ayur, a men's skincare brand?",
     "collaboration_strategy": "Product Trial",
+    "video_titles_analyzed": [
+      "The Derma Co Hyperpigmentation serum Review \u203c\ufe0f\u2728#pigmentation #hyperpigmentation #darkspots #skin",
+      "\u201cDr Sheth\u2019s Sunscreen for Oily Skin-Acne Prone skin || Worth It or Not \u274c?Honest Review ",
+      "\u201cAcne Gone Overnight? \ud83d\ude31 Conscious Chemist Acne Spot Corrector Gel Review\u203c\ufe0f",
+      "Grey Hair Solution \u203c\ufe0f \u0938\u092b\u0947\u0926 \u092c\u093e\u0932\u094b\u0902 \u0915\u094b \u0915\u093e\u0932\u093e \u0915\u0930\u0947\u0917\u093e \u092f\u0947 \u0924\u0947\u0932\ud83d\ude31 Live Result\ud83d\udcaf ",
+      "Viral Rice Face Mask \u203c\ufe0f\u26a1\ufe0fskin Brightening Facepack \u26a1\ufe0f#glassskin #ricefacemask #skincare #glow"
+    ],
     "collaboration_reason": "Review-focused creators convert well with free product trials.",
     "segment": "Tutorial Creators"
+  },
+  {
+    "platform": "YouTube",
+    "name": "Indian Skin Blog ",
+    "subscribers": 82000,
+    "profile_link": "https://youtube.com/channel/UClB1ODW_aiHyUNQtgoriTHA",
+    "niche": "Skin Care",
+    "content_type": "educational/reviews",
+    "tone": "casual",
+    "top_topics": [
+      "skincare routines",
+      "product reviews",
+      "acne treatment"
+    ],
+    "engagement_quality": "high",
+    "contact_email": "N/A",
+    "match_score": 90,
+    "match_reason": "Strong alignment between the brand's skincare focus and the creator's niche, with a high engagement quality and relevant topics such as skincare routines and product reviews.",
+    "email": "Hi Indian Skin Blog, I'm reaching out from ayur skincare. We love your educational content and think our brand values align perfectly with your audience's interests. Let's discuss a potential collaboration opportunity.",
+    "dm": "Hey, love your skincare content! Want to collab with ayur?",
+    "collaboration_strategy": "Sponsorship",
+    "video_titles_analyzed": [
+      "Summer Skincare Routine for Dry Skin | Complete Morning Routine",
+      "Brutal Review Episode 32: Is This New Tinted Sunscreen Good?",
+      "21 Days of No Sugar: Part 2: Changes I saw in my skin and body",
+      "Skincare habits that changed my skin",
+      "3 Drinks for Glowing Skin \u2728"
+    ],
+    "collaboration_reason": "High engagement and large reach make paid sponsorship worthwhile.",
+    "segment": "Educators"
   }
 ]
