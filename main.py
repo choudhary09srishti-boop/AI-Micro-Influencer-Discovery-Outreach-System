@@ -70,7 +70,7 @@ if __name__ == "__main__":
             "collaboration_reason": r.get("collaboration_reason"),
         })
 
-    segments = segment_creators(output)
+    segments = segment_creators(output, keyword)
     print("\n📊 Final Creator Segments:")
     for seg, creators in segments.items():
         print(f"  {seg}: {len(creators)} creators")
